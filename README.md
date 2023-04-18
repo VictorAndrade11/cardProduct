@@ -1,5 +1,5 @@
 # Card Product
-<a href="vermillion-starburst-225966.netlify.app/">clique aqui para ser direcionado ao site</a>
+<a href="https://vermillion-starburst-225966.netlify.app/">clique aqui para ser direcionado ao site</a>
 
 # Explicação do Projeto.
 
